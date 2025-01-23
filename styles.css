@@ -1,24 +1,5 @@
 #navbarNav {
-    margin-left: 30rem;
+  margin-left: 30rem;
 }
 
-#favos {
-    margin-top: 8px;
-}
-
-#small-card {
-
-    /*  */
-    width: 35rem;
-    margin-top: 20px;
-    /*  */
-    background-color:cadetblue;
-}
-.location-wether {
-    display: flex;
-    flex-direction: row;
-}
-
-.bouth-cards {
-    margin-left: 300px;
-}
+/*# sourceMappingURL=styles.css.map */
